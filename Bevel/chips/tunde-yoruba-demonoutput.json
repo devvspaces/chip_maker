@@ -1,0 +1,16 @@
+{
+    "format": "CHIP-0007",
+    "name": "tunde-yoruba-demon",
+    "description": "Tunde derives joy in breaking girls heart. It's a lifestyle.\"",
+    "minting_tool": "Bevel",
+    "sensitive_content": false,
+    "series_number": "19",
+    "series_total": 400,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "53b46bd7-a537-402b-b249-0b4074a8faae",
+        "attributes": []
+    },
+    "data": {}
+}
